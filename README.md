@@ -17,7 +17,7 @@
 ## Deployment
 Read the [Docs](https://levina.gitbook.io/videostreambot/deployment/requirements) for Detailed Information and Setup Guide on deploying Bot.
 
-> Click on buttons to Expand!
+> Click on buttons to expand!
 <details>
 <summary><b>🔗 Requirements</b></summary>
 <br>
@@ -25,7 +25,7 @@ Read the [Docs](https://levina.gitbook.io/videostreambot/deployment/requirements
 - [Python3.9](https://www.python.org/downloads/release/python-390/)
 - [Telegram API Key](https://docs.pyrogram.org/intro/setup#api-keys)
 - [Telegram Bot Token](https://t.me/botfather)
-- [MongoDB URL](https://telegra.ph/How-to-Get-mongodb-url-02-18)
+- [MongoDB Url](https://telegra.ph/How-to-Get-mongodb-url-02-18)
 - [Pyrogram Session String](https://levina.gitbook.io/videostreambot/deployment/string-session)
     
 </details>
@@ -79,8 +79,8 @@ root@linux~ $ python3 main.py
 
 ## Contact & Support
 
-<a href="https://t.me/VeezSupportGroup"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a><br>
-<a href="https://t.me/levinachannel"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a><br>
+<a href="https://t.me/VeezSupportGroup"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a><br>
+<a href="https://t.me/levinachannel"><img src="https://img.shields.io/badge/Join-News%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a><br>
 <a href="https://t.me/dlwrml"><img src="https://img.shields.io/badge/Contact-Repo%20Owner-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 ## License
@@ -89,9 +89,7 @@ Distributed under the [GNU General Public License v3.0 License](https://github.c
 
 ## Credits
 
-- [Levina](https://github.com/levina-lab) ``Dev``
-- [Zxce3](https://github.com/Zxce3) ``Dev``
-- [tofikdn](https://github.com/tofikdn) ``Dev``
-- [xtaodada](https://github.com/xtao-dada) ``Dev``
-- [Laky's](https://github.com/Laky-64) for [``py-tgcalls``](https://github.com/pytgcalls/pytgcalls)
-- [Dan](https://github.com/delivrance) for [``Pyrogram``](https://github.com/pyrogram)
+- [Levina](https://github.com/levina-lab)
+- [Tofikdn](https://github.com/tofikdn)
+- [Mr.WangZhe](https://github.com/omg-xtao)
+- [Zxce3](https://github.com/Zxce3)
