@@ -1,0 +1,12 @@
+.env
+.git/
+.idea/
+.gitignore
+
+*.log
+*.png
+*.txt
+
+README.md
+downloads/
+__pycache__/
