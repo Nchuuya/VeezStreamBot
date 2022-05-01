@@ -1,0 +1,18 @@
+version: "3.10"
+services:
+  veez:
+    build: .
+    environment:
+      api_id: $api_id
+      api_hash: $api_hash
+      token: $token
+      session: $session
+      creator_id: $creator_id
+      creator_name: $creator_name
+      creator_username: $creator_username
+      database_url: $database_url
+      sudoers_id: $sudoers_id
+      cmd_handler: $cmd_handler
+      support_group: $support_group
+      support_channel: $support_channel
+      bot_alive_image: $bot_alive_image
