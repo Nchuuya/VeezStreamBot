@@ -16,6 +16,7 @@ creator_name = getenv("creator_name")
 creator_username = getenv("creator_username")
 
 database_url = getenv("database_url")
+bot_alive_image = getenv("bot_alive_image")
 sudoers_id = list(map(int, getenv("sudoers_id").split()))
 cmd_handler = list(getenv("cmd_handler", "/ . $ !").split())
 
